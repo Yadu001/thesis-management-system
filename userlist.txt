@@ -1,0 +1,4 @@
+list of user 		
+email:teststudent@gmail.com password:password
+email:testteacher@gmail.com password:password
+email:admin@example.com password:password
